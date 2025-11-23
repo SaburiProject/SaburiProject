@@ -2,7 +2,9 @@
 
 <!-- 🌟 ANIMATED HEADER START 🌟 -->
 
+<a href="https://git.io/typing-svg">
 <img src="https://www.google.com/search?q=https://readme-typing-svg.herokuapp.com%3Ffont%3DFira%2BCode%26weight%3D600%26size%3D30%26pause%3D1000%26color%3D3776AB%26center%3Dtrue%26vCenter%3Dtrue%26width%3D600%26lines%3DHi%2Bthere,%2BI%27m%2BSaburi%2BRane!%2B%25F0%259F%2591%258B%3BAI%2BDeveloper%2B%257C%2BGenAI%2B%2526%2BML%2BSpecialist%3BBuilding%2BScalable%2BRAG%2BPipelines%3BAutomating%2BWorkflows%2Bwith%2BAI" alt="Typing SVG" />
+</a>
 <!-- 🌟 ANIMATED HEADER END 🌟 -->
 
 </div>
