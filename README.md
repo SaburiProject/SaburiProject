@@ -78,13 +78,13 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaburiProject&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=E2E8F0&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaburiProject&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub Streak" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=SaburiProject&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&icon_color=06B6D4&text_color=E2E8F0&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=SaburiProject&theme=tokyonight&hide_border=true&background=0D1117&ring=06B6D4&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=E2E8F0&dates=94A3B8" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaburiProject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaburiProject&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=3B82F6&point=E2E8F0" alt="Contribution Graph" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaburiProject&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=06B6D4&text_color=E2E8F0" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=SaburiProject&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=06B6D4&line=3B82F6&point=E2E8F0" alt="Contribution Graph" />
 </div>
 
 ---
@@ -92,7 +92,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-  
+  
 [![trophy](https://github-profile-trophy.vercel.app/?username=SaburiProject&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
@@ -115,14 +115,11 @@
 
 ## 📈 Contribution Activity
 
-<!--START_SECTION:activity-->
 <div align="center">
-  
+  
 ![GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=SaburiProject&bg_color=0D1117&color=06B6D4&line=3B82F6&point=E2E8F0&area=true&hide_border=true)
 
 </div>
-<!--END_SECTION:activity-->
-
 ---
 
 ## 🤝 Let's Connect
@@ -151,19 +148,19 @@
 ---
 
 <div align="center">
-  
+  
 ### 💭 Dev Quote of the Day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔥 Contribution Snake
-![Snake animation](https://raw.githubusercontent.com/SaburiProject/SaburiProject/output/dist/github-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/SaburiProject/SaburiProject/output/github-snake-dark.svg)
 
 </div>
 
 ---
 
 <div align="center">
-  
+  
 **⭐ From [SaburiProject](https://github.com/SaburiProject) | Built with ❤️ and AI**
 
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:06B6D4,100:3B82F6&height=120&section=footer)
