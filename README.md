@@ -23,22 +23,15 @@
 
 ## 🚀 About Me
 
-```python
-class AIEngineer:
-    def __init__(self):
-        self.name = "Saburi Rane"
-        self.role = "AI Developer"
-        self.focus = ["RAG Pipelines", "AI Agents", "LLM Fine-tuning"]
-        
-    def current_work(self):
-        return {
-            "🔭 Building": "Production-grade RAG pipelines & AI Agents",
-            "👯 Collaborating": "Open-source Generative AI projects",
-            "🤝 Exploring": "Advanced Multi-Agent System architectures",
-            "🌱 Learning": "LLM Fine-tuning & Agentic Workflows",
-            "⚡ Achievement": "Automated 80% of content creation workflow"
-        }
-```
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+
+- 🔭 **Currently Building:** Production-grade RAG pipelines & AI Agents
+- 👯 **Open to Collaborate:** Open-source Generative AI projects
+- 🤝 **Exploring:** Advanced Multi-Agent System architectures
+- 🌱 **Learning:** LLM Fine-tuning & Agentic Workflows
+- ⚡ **Fun Fact:** Automated 80% of content creation workflow using AI
+- 💬 **Ask me about:** RAG Pipelines, AI Agents, LangChain, Vector Databases
+- 📫 **Reach me:** saburirane62@gmail.com
 
 ---
 
@@ -163,7 +156,7 @@ class AIEngineer:
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ### 🔥 Contribution Snake
-![Snake animation](https://github.com/SaburiProject/SaburiProject/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/SaburiProject/SaburiProject/blob/output/dist/github-snake-dark.svg)
 
 </div>
 
