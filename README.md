@@ -1,8 +1,12 @@
 <div align="center">
 
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Saburi%20Rane&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%7C%20Building%20Agents%20&%20RAG%20Pipelines&descAlignY=51&descAlign=50)
+
 <a href="https://git.io/typing-svg">
 <img src="https://readme-typing-svg.herokuapp.com/?lines=Building+Production-Grade+RAG+Pipelines;Developing+Autonomous+AI+Agents;Fine-tuning+LLMs+for+Custom+Use+Cases;Automating+Workflows+with+Python&font=Fira+Code&center=true&width=500&height=30&color=36BCF7&vCenter=true&size=20" />
 </a>
+
+<br/>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/saburirane" target="_blank">
@@ -15,27 +19,23 @@
 
 </div>
 
-👨‍💻 About Me
+---
 
-🔭 I’m currently working on: Production-grade RAG pipelines and AI Agents
+### 👨‍💻 About Me
 
-👯 I’m looking to collaborate on: Open-source Generative AI projects
+- 🔭 I’m currently working on: **Production-grade RAG pipelines and AI Agents**
+- 👯 I’m looking to collaborate on: **Open-source Generative AI projects**
+- 🤝 I’m looking for help with: **Advanced Multi-Agent System architectures**
+- 🌱 I’m currently learning: **LLM Fine-tuning & Agentic Workflows**
+- ⚡ Fun fact: **I automated 80% of my content creation workflow using AI!**
 
-🤝 I’m looking for help with: Advanced Multi-Agent System architectures
+---
 
-🌱 I’m currently learning: LLM Fine-tuning & Agentic Workflows
-
-⚡ Fun fact: I automated 80% of my content creation workflow using AI!
-
-🛠️ Tech Stack
+### 🛠️ Tech Stack
 
 <details>
 <summary><b>🤖 AI & Machine Learning</b></summary>
-
-
-
-
-
+<br/>
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
 <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
@@ -44,11 +44,7 @@
 
 <details>
 <summary><b>💻 Languages & Backend</b></summary>
-
-
-
-
-
+<br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
 <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -58,11 +54,7 @@
 
 <details>
 <summary><b>🌐 Web & Tools</b></summary>
-
-
-
-
-
+<br/>
 <img src="https://img.shields.io/badge/React-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -70,7 +62,9 @@
 <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
 </details>
 
-📊 GitHub Analytics
+<br/>
+
+### 📊 GitHub Analytics
 
 <div align="center">
 <table>
@@ -83,21 +77,12 @@
 </td>
 </tr>
 </table>
-
-
-
-
-
+<br/>
 <img src="https://nirzak-streak-stats.vercel.app/?user=SaburiProject&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 </div>
+
+<br/>
 
 <div align="center">
 <img src="https://visitcount.itsvg.in/api?id=SaburiProject&icon=5&color=6" />
 </div>
-
-<!-- 🐍 SNAKE ANIMATION -->
-
-<picture>
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SaburiProject/SaburiProject/output/github-snake-dark.svg" />
-<img alt="github-snake" src="https://raw.githubusercontent.com/SaburiProject/SaburiProject/output/github-snake.svg" />
-</picture>
